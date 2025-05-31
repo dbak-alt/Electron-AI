@@ -35,6 +35,13 @@ This project replicates the **UI/UX** of modern AI chat apps like **Claude AI**,
 - **Fuse.js** – Lightweight fuzzy-search library for Q&A matching.
 
 ---
+## Appearance
+
+<img width="1536" alt="image" src="https://github.com/user-attachments/assets/8463d5e3-85c4-445d-b502-397e66de13bd" />
+
+<img width="1536" alt="image" src="https://github.com/user-attachments/assets/dbbd4590-869d-42f5-b9e1-f718e9357716" />
+
+
 
 ## 📦 Getting Started
 
